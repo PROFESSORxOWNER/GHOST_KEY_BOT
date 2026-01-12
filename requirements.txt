@@ -1,6 +1,5 @@
 python-telegram-bot==20.7
 aiohttp==3.9.1
-pydantic==1.10.13
 qrcode
 pillow
 requests
